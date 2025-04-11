@@ -201,6 +201,10 @@
 		{
 			"Name": "AndroidPermission",
 			"Enabled": false
+		},
+		{
+			"Name": "WaveformEditor",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
